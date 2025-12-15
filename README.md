@@ -1,3 +1,35 @@
+# IW - L3.1 - Inputs and Conditionals
+## How can I make changes to a page based on an input?
+
+### Overview
+You will be working with a single input field and writing conditional statements to validate (and invalidate) user inputs. 
+Prerequisite knowledge includes finding IDs in the `index.html`, using `querySelector()`, writing functions, and using `addEventListener()`.
+
+The extensions allow for more practice with the topic in slightly more challenging ways focussing more on conditionals than on various input types. 
+The lab that follows puts more emphasis on various inputs while also including conditional statements.
+
+## Objectives
+Students will be able to:
+
+- retrieve inputs from a textbox input
+
+- use if, else if, and else to trigger conditional events.
+
+- write conditional and compound conditional statements using conditional operators
+
+## Vocabulary
+**DOM:** The Document Object Model (DOM) defines the logical structure of documents and the way a document is accessed and manipulated.
+
+**Conditional Statements:** statements that are created by the programmer which evaluates actions in the program and evaluates if it's true or false. If-then-else statement allows conditional execution based on the evaluation of an expression.
+
+**event listener:** a procedure or function in a computer program that waits for an event to occur.
+
+**query Selector:** The `querySelector()` is a method used for searching and returning the very first element within the document that matches the given selector.
+
+**Function:** a “chunk” of code that you can use over and over again, rather than writing it out multiple times.
+
+**innerHTML:** The Element property `innerHTML` gets or sets the HTML markup contained within the element
+
 # Extensions
 ## Mild Activities
 
